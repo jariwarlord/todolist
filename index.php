@@ -39,7 +39,7 @@
     }
     ?>
 
-    <table class="table table-hover text-center">
+    <table class="table table-primary table-hover text-center">
         <thead>
         <tr>
             <th scope="col">Number</th>
@@ -72,8 +72,8 @@
         ?>
         </tbody>
     </table>
-    <a href="add_new.php" class="btn btn-dark mb-3">Add New</a>
-
+    <a href="add_new.php" class="btn btn-primary mb-3">Add New</a>
 </div>
+
 </body>
 </html>
