@@ -70,7 +70,7 @@ if (isset($_POST["submit"])) {
 
                 <div class="mb-3">
                     <label class="form-label">Due Date:</label>
-                    <input type="date" class="form-control" name="date" placeholder="02/07/2023">
+                    <input type="date" class="form-control" name="date" value="02/07/2023">
                 </div>
 
                 <div class="form-group mb-3">
